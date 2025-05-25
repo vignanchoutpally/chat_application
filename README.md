@@ -23,13 +23,9 @@ A simple and responsive real-time chat application built using **HTML**, **CSS**
 chat-app/
 
 ├── index.html # Frontend structure
-
 ├── style.css # Styling for chat UI
-
 ├── app.js # Socket.IO frontend logic
-
 ├── server.js # (Optional) Express + Socket.IO backend
-
 └── README.md
 
 
@@ -60,10 +56,10 @@ http://localhost:3000
 ```
 Or simply open index.html directly for basic frontend testing.
 
-📸 Preview
+## 📸 Preview
 
 (Add a screenshot or GIF of your chat app in action here)
 
-📝 License
+## 📝 License
 
 This project is licensed under the MIT License.
