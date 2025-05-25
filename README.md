@@ -19,6 +19,7 @@ A simple and responsive real-time chat application built using **HTML**, **CSS**
 - **Backend (to be added)**: Node.js + Express (optional setup)
 
 ## 📂 Project Structure
+
 chat-app/
 ├── index.html       # Frontend structure
 ├── style.css        # Styling for chat UI
