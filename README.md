@@ -21,10 +21,15 @@ A simple and responsive real-time chat application built using **HTML**, **CSS**
 ## 📂 Project Structure
 
 chat-app/
+
 ├── index.html # Frontend structure
+
 ├── style.css # Styling for chat UI
+
 ├── app.js # Socket.IO frontend logic
+
 ├── server.js # (Optional) Express + Socket.IO backend
+
 └── README.md
 
 
