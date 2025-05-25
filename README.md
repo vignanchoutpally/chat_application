@@ -70,7 +70,7 @@ Or simply open index.html directly for basic frontend testing.
 
 ## 📸 Preview
 
-(Add a screenshot or GIF of your chat app in action here)
+<img width="1445" alt="Image" src="https://github.com/user-attachments/assets/9276e617-e9c3-41ea-8f7d-c26930f63a59" />
 
 ## 📝 License
 
