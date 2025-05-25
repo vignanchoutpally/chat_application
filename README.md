@@ -26,7 +26,7 @@ chat-app/
 ├── app.js           # Socket.IO frontend logic
 ├── server.js        # (Optional) Express + Socket.IO backend
 └── README.md        # Project documentation
-
+```
 
 
 ## 📦 Getting Started
