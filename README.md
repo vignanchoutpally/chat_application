@@ -1,16 +1,6 @@
 # 💬 Real-Time Chat App
 
-*COMPANY*: CODTECH IT SOLUTIONS 
-
-*NAME*: Choutpally Vignan
-
-*INTERN ID*: CT08WT223
-
-*DOMAIN*: Full Stack Development
-
-*MENTOR*: NEELA SANTOSH
-
-*LIVE DEMO*: [Visit the Weather App](https://chat-application-8-0vnh.onrender.com)
+*LIVE DEMO*: [Visit the Real-Time Chat App](https://chat-application-8-0vnh.onrender.com)
 
 A simple and responsive real-time chat application built using **HTML**, **CSS**, **JavaScript**, and **Socket.IO**. Users can join chat rooms, send messages, and see live activity from other participants.
 
